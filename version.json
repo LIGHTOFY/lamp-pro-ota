@@ -1,10 +1,10 @@
 {
- "latest": "v3.9",
- "build": "FW_v18",
- "file": "firmware/LAMP_PRO_FW_v18_UPDATE.bin",
+ "latest": "v4.0",
+ "build": "FW_v19",
+ "file": "firmware/LAMP_PRO_FW_v19_UPDATE.bin",
  "size": 577296,
- "sha256": "a40b3ec610d290e87aacb89ab0a33e00eb5e721f946f0ba94609ce1dece8a8fd",
+ "sha256": "bc5fd2ed659df9d84d98809b213aa35305bcd9bffb32581da15b127a6a4bee8c",
  "date": "2026-11-16",
- "notes": "Home Wi-Fi + lamp-pro.local, internet time, lamp group sync, online update, 82 effects with music, LDR, clap, touch.",
- "notesHi": "घर का Wi-Fi + lamp-pro.local, इंटरनेट टाइम, लैंप ग्रुप सिंक, ऑनलाइन अपडेट, म्यूज़िक के साथ 82 इफ़ेक्ट, LDR, ताली, टच।"
+ "notes": "v4.0: everything in one firmware - 82 effects with music, mic, LDR, clap, touch, home Wi-Fi + lamp-pro.local, internet time, lamp group sync, online update.",
+ "notesHi": "v4.0: सब एक फ़र्मवेयर में - म्यूज़िक के साथ 82 इफ़ेक्ट, माइक, LDR, ताली, टच, घर का Wi-Fi + lamp-pro.local, इंटरनेट टाइम, लैंप ग्रुप सिंक, ऑनलाइन अपडेट।"
 }
